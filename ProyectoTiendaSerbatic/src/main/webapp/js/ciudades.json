@@ -1,0 +1,1398 @@
+[
+	{
+		"parent_code": "01",
+		"code": "3",
+		"label": "Agurain/Salvatierra"
+	},
+	{
+		"parent_code": "01",
+		"code": "4",
+		"label": "Alegría-Dulantzi"
+	},
+	{
+		"parent_code": "01",
+		"code": "9",
+		"label": "Amurrio"
+	},
+	{
+		"parent_code": "01",
+		"code": "3",
+		"label": "Añana"
+	},
+	{
+		"parent_code": "01",
+		"code": "5",
+		"label": "Aramaio"
+	},
+	{
+		"parent_code": "01",
+		"code": "6",
+		"label": "Armiñón"
+	},
+	{
+		"parent_code": "01",
+		"code": "6",
+		"label": "Arraia-Maeztu"
+	},
+	{
+		"parent_code": "01",
+		"code": "8",
+		"label": "Arratzua-Ubarrundia"
+	},
+	{
+		"parent_code": "01",
+		"code": "0",
+		"label": "Artziniega"
+	},
+	{
+		"parent_code": "01",
+		"code": "1",
+		"label": "Asparrena"
+	},
+	{
+		"parent_code": "01",
+		"code": "5",
+		"label": "Ayala/Aiara"
+	},
+	{
+		"parent_code": "01",
+		"code": "2",
+		"label": "Baños de Ebro/Mañueta"
+	},
+	{
+		"parent_code": "01",
+		"code": "3",
+		"label": "Barrundia"
+	},
+	{
+		"parent_code": "01",
+		"code": "8",
+		"label": "Berantevilla"
+	},
+	{
+		"parent_code": "01",
+		"code": "4",
+		"label": "Bernedo"
+	},
+	{
+		"parent_code": "01",
+		"code": "0",
+		"label": "Campezo/Kanpezu"
+	},
+	{
+		"parent_code": "01",
+		"code": "0",
+		"label": "Elburgo/Burgelu"
+	},
+	{
+		"parent_code": "01",
+		"code": "5",
+		"label": "Elciego"
+	},
+	{
+		"parent_code": "01",
+		"code": "1",
+		"label": "Elvillar/Bilar"
+	},
+	{
+		"parent_code": "01",
+		"code": "4",
+		"label": "Erriberabeitia"
+	},
+	{
+		"parent_code": "01",
+		"code": "8",
+		"label": "Erriberagoitia/Ribera Alta"
+	},
+	{
+		"parent_code": "01",
+		"code": "5",
+		"label": "Harana/Valle de Arana"
+	},
+	{
+		"parent_code": "01",
+		"code": "5",
+		"label": "Iruña Oka/Iruña de Oca"
+	},
+	{
+		"parent_code": "01",
+		"code": "8",
+		"label": "Iruraiz-Gauna"
+	},
+	{
+		"parent_code": "01",
+		"code": "9",
+		"label": "Kripan"
+	},
+	{
+		"parent_code": "01",
+		"code": "3",
+		"label": "Kuartango"
+	},
+	{
+		"parent_code": "01",
+		"code": "4",
+		"label": "Labastida/Bastida"
+	},
+	{
+		"parent_code": "01",
+		"code": "1",
+		"label": "Lagrán"
+	},
+	{
+		"parent_code": "01",
+		"code": "8",
+		"label": "Laguardia"
+	},
+	{
+		"parent_code": "01",
+		"code": "3",
+		"label": "Lanciego/Lantziego"
+	},
+	{
+		"parent_code": "01",
+		"code": "0",
+		"label": "Lantarón"
+	},
+	{
+		"parent_code": "01",
+		"code": "9",
+		"label": "Lapuebla de Labarca"
+	},
+	{
+		"parent_code": "01",
+		"code": "0",
+		"label": "Laudio/Llodio"
+	},
+	{
+		"parent_code": "01",
+		"code": "7",
+		"label": "Legutio"
+	},
+	{
+		"parent_code": "01",
+		"code": "4",
+		"label": "Leza"
+	},
+	{
+		"parent_code": "01",
+		"code": "5",
+		"label": "Moreda de Álava/Moreda Araba"
+	},
+	{
+		"parent_code": "01",
+		"code": "6",
+		"label": "Navaridas"
+	},
+	{
+		"parent_code": "01",
+		"code": "1",
+		"label": "Okondo"
+	},
+	{
+		"parent_code": "01",
+		"code": "7",
+		"label": "Oyón-Oion"
+	},
+	{
+		"parent_code": "01",
+		"code": "2",
+		"label": "Peñacerrada-Urizaharra"
+	},
+	{
+		"parent_code": "01",
+		"code": "8",
+		"label": "Samaniego"
+	},
+	{
+		"parent_code": "01",
+		"code": "4",
+		"label": "San Millán/Donemiliaga"
+	},
+	{
+		"parent_code": "01",
+		"code": "9",
+		"label": "Urkabustaiz"
+	},
+	{
+		"parent_code": "01",
+		"code": "2",
+		"label": "Valdegovía/Gaubea"
+	},
+	{
+		"parent_code": "01",
+		"code": "1",
+		"label": "Villabuena de Álava/Eskuernaga"
+	},
+	{
+		"parent_code": "01",
+		"code": "0",
+		"label": "Vitoria-Gasteiz"
+	},
+	{
+		"parent_code": "01",
+		"code": "4",
+		"label": "Yécora/Iekora"
+	},
+	{
+		"parent_code": "01",
+		"code": "1",
+		"label": "Zalduondo"
+	},
+	{
+		"parent_code": "01",
+		"code": "6",
+		"label": "Zambrana"
+	},
+	{
+		"parent_code": "01",
+		"code": "6",
+		"label": "Zigoitia"
+	},
+	{
+		"parent_code": "01",
+		"code": "2",
+		"label": "Zuia"
+	},
+	{
+		"parent_code": "02",
+		"code": "9",
+		"label": "Abengibre"
+	},
+	{
+		"parent_code": "02",
+		"code": "4",
+		"label": "Alatoz"
+	},
+	{
+		"parent_code": "02",
+		"code": "0",
+		"label": "Albacete"
+	},
+	{
+		"parent_code": "02",
+		"code": "5",
+		"label": "Albatana"
+	},
+	{
+		"parent_code": "02",
+		"code": "8",
+		"label": "Alborea"
+	},
+	{
+		"parent_code": "02",
+		"code": "1",
+		"label": "Alcadozo"
+	},
+	{
+		"parent_code": "02",
+		"code": "7",
+		"label": "Alcalá del Júcar"
+	},
+	{
+		"parent_code": "02",
+		"code": "3",
+		"label": "Alcaraz"
+	},
+	{
+		"parent_code": "02",
+		"code": "6",
+		"label": "Almansa"
+	},
+	{
+		"parent_code": "02",
+		"code": "0",
+		"label": "Alpera"
+	},
+	{
+		"parent_code": "02",
+		"code": "7",
+		"label": "Ayna"
+	},
+	{
+		"parent_code": "02",
+		"code": "2",
+		"label": "Balazote"
+	},
+	{
+		"parent_code": "02",
+		"code": "3",
+		"label": "Ballestero, El"
+	},
+	{
+		"parent_code": "02",
+		"code": "8",
+		"label": "Balsa de Ves"
+	},
+	{
+		"parent_code": "02",
+		"code": "6",
+		"label": "Barrax"
+	},
+	{
+		"parent_code": "02",
+		"code": "9",
+		"label": "Bienservida"
+	},
+	{
+		"parent_code": "02",
+		"code": "5",
+		"label": "Bogarra"
+	},
+	{
+		"parent_code": "02",
+		"code": "1",
+		"label": "Bonete"
+	},
+	{
+		"parent_code": "02",
+		"code": "4",
+		"label": "Bonillo, El"
+	},
+	{
+		"parent_code": "02",
+		"code": "8",
+		"label": "Carcelén"
+	},
+	{
+		"parent_code": "02",
+		"code": "5",
+		"label": "Casas de Juan Núñez"
+	},
+	{
+		"parent_code": "02",
+		"code": "0",
+		"label": "Casas de Lázaro"
+	},
+	{
+		"parent_code": "02",
+		"code": "6",
+		"label": "Casas de Ves"
+	},
+	{
+		"parent_code": "02",
+		"code": "1",
+		"label": "Casas-Ibáñez"
+	},
+	{
+		"parent_code": "02",
+		"code": "4",
+		"label": "Caudete"
+	},
+	{
+		"parent_code": "02",
+		"code": "7",
+		"label": "Cenizate"
+	},
+	{
+		"parent_code": "02",
+		"code": "2",
+		"label": "Chinchilla de Monte-Aragón"
+	},
+	{
+		"parent_code": "02",
+		"code": "3",
+		"label": "Corral-Rubio"
+	},
+	{
+		"parent_code": "02",
+		"code": "9",
+		"label": "Cotillas"
+	},
+	{
+		"parent_code": "02",
+		"code": "6",
+		"label": "Elche de la Sierra"
+	},
+	{
+		"parent_code": "02",
+		"code": "3",
+		"label": "Férez"
+	},
+	{
+		"parent_code": "02",
+		"code": "8",
+		"label": "Fuensanta"
+	},
+	{
+		"parent_code": "02",
+		"code": "4",
+		"label": "Fuente-Álamo"
+	},
+	{
+		"parent_code": "02",
+		"code": "9",
+		"label": "Fuentealbilla"
+	},
+	{
+		"parent_code": "02",
+		"code": "2",
+		"label": "Gineta, La"
+	},
+	{
+		"parent_code": "02",
+		"code": "5",
+		"label": "Golosalvo"
+	},
+	{
+		"parent_code": "02",
+		"code": "1",
+		"label": "Hellín"
+	},
+	{
+		"parent_code": "02",
+		"code": "7",
+		"label": "Herrera, La"
+	},
+	{
+		"parent_code": "02",
+		"code": "0",
+		"label": "Higueruela"
+	},
+	{
+		"parent_code": "02",
+		"code": "4",
+		"label": "Hoya-Gonzalo"
+	},
+	{
+		"parent_code": "02",
+		"code": "1",
+		"label": "Jorquera"
+	},
+	{
+		"parent_code": "02",
+		"code": "6",
+		"label": "Letur"
+	},
+	{
+		"parent_code": "02",
+		"code": "2",
+		"label": "Lezuza"
+	},
+	{
+		"parent_code": "02",
+		"code": "7",
+		"label": "Liétor"
+	},
+	{
+		"parent_code": "02",
+		"code": "0",
+		"label": "Madrigueras"
+	},
+	{
+		"parent_code": "02",
+		"code": "3",
+		"label": "Mahora"
+	},
+	{
+		"parent_code": "02",
+		"code": "9",
+		"label": "Masegoso"
+	},
+	{
+		"parent_code": "02",
+		"code": "5",
+		"label": "Minaya"
+	},
+	{
+		"parent_code": "02",
+		"code": "8",
+		"label": "Molinicos"
+	},
+	{
+		"parent_code": "02",
+		"code": "1",
+		"label": "Montalvos"
+	},
+	{
+		"parent_code": "02",
+		"code": "8",
+		"label": "Montealegre del Castillo"
+	},
+	{
+		"parent_code": "02",
+		"code": "3",
+		"label": "Motilleja"
+	},
+	{
+		"parent_code": "02",
+		"code": "9",
+		"label": "Munera"
+	},
+	{
+		"parent_code": "02",
+		"code": "4",
+		"label": "Navas de Jorquera"
+	},
+	{
+		"parent_code": "02",
+		"code": "7",
+		"label": "Nerpio"
+	},
+	{
+		"parent_code": "02",
+		"code": "0",
+		"label": "Ontur"
+	},
+	{
+		"parent_code": "02",
+		"code": "6",
+		"label": "Ossa de Montiel"
+	},
+	{
+		"parent_code": "02",
+		"code": "2",
+		"label": "Paterna del Madera"
+	},
+	{
+		"parent_code": "02",
+		"code": "9",
+		"label": "Peñas de San Pedro"
+	},
+	{
+		"parent_code": "02",
+		"code": "5",
+		"label": "Peñascosa"
+	},
+	{
+		"parent_code": "02",
+		"code": "6",
+		"label": "Pétrola"
+	},
+	{
+		"parent_code": "02",
+		"code": "1",
+		"label": "Povedilla"
+	},
+	{
+		"parent_code": "02",
+		"code": "0",
+		"label": "Pozo Cañada"
+	},
+	{
+		"parent_code": "02",
+		"code": "7",
+		"label": "Pozohondo"
+	},
+	{
+		"parent_code": "02",
+		"code": "2",
+		"label": "Pozo-Lorente"
+	},
+	{
+		"parent_code": "02",
+		"code": "5",
+		"label": "Pozuelo"
+	},
+	{
+		"parent_code": "02",
+		"code": "8",
+		"label": "Recueja, La"
+	},
+	{
+		"parent_code": "02",
+		"code": "4",
+		"label": "Riópar"
+	},
+	{
+		"parent_code": "02",
+		"code": "0",
+		"label": "Robledo"
+	},
+	{
+		"parent_code": "02",
+		"code": "3",
+		"label": "Roda, La"
+	},
+	{
+		"parent_code": "02",
+		"code": "7",
+		"label": "Salobre"
+	},
+	{
+		"parent_code": "02",
+		"code": "4",
+		"label": "San Pedro"
+	},
+	{
+		"parent_code": "02",
+		"code": "9",
+		"label": "Socovos"
+	},
+	{
+		"parent_code": "02",
+		"code": "5",
+		"label": "Tarazona de la Mancha"
+	},
+	{
+		"parent_code": "02",
+		"code": "0",
+		"label": "Tobarra"
+	},
+	{
+		"parent_code": "02",
+		"code": "3",
+		"label": "Valdeganga"
+	},
+	{
+		"parent_code": "02",
+		"code": "6",
+		"label": "Vianos"
+	},
+	{
+		"parent_code": "02",
+		"code": "2",
+		"label": "Villa de Ves"
+	},
+	{
+		"parent_code": "02",
+		"code": "8",
+		"label": "Villalgordo del Júcar"
+	},
+	{
+		"parent_code": "02",
+		"code": "1",
+		"label": "Villamalea"
+	},
+	{
+		"parent_code": "02",
+		"code": "5",
+		"label": "Villapalacios"
+	},
+	{
+		"parent_code": "02",
+		"code": "2",
+		"label": "Villarrobledo"
+	},
+	{
+		"parent_code": "02",
+		"code": "7",
+		"label": "Villatoya"
+	},
+	{
+		"parent_code": "02",
+		"code": "3",
+		"label": "Villavaliente"
+	},
+	{
+		"parent_code": "02",
+		"code": "8",
+		"label": "Villaverde de Guadalimar"
+	},
+	{
+		"parent_code": "02",
+		"code": "1",
+		"label": "Viveros"
+	},
+	{
+		"parent_code": "02",
+		"code": "4",
+		"label": "Yeste"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Agost"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Agres"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Aigües"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Albatera"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Alcalalí"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Alcocer de Planes"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Alcoleja"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Alcoy/Alcoi"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Alfafara"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Alfàs del Pi, l'"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Algorfa"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Algueña"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Alicante/Alacant"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Almoradí"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Almudaina"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Alqueria d'Asnar, l'"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Altea"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Aspe"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Atzúbia, l'"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Balones"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Banyeres de Mariola"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Benasau"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Beneixama"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Benejúzar"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Benferri"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Beniarbeig"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Beniardá"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Beniarrés"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Benidoleig"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Benidorm"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Benifallim"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Benifato"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Benigembla"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Benijófar"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Benilloba"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Benillup"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Benimantell"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Benimarfull"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Benimassot"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Benimeli"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Benissa"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Benitachell/Poble Nou de Benitatxell, el"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Biar"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Bigastro"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Bolulla"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Busot"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Callosa de Segura"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Callosa d'en Sarrià"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Calp"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Campello, el"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Campo de Mirra/Camp de Mirra, el"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Cañada"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Castalla"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Castell de Castells"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Castell de Guadalest, el"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Catral"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Cocentaina"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Confrides"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Cox"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Crevillent"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Daya Nueva"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Daya Vieja"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Dénia"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Dolores"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Elche/Elx"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Elda"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Facheca"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Famorca"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Finestrat"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Fondó de les Neus, el/Hondón de las Nieves"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Formentera del Segura"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Gaianes"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Gata de Gorgos"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Gorga"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Granja de Rocamora"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Guardamar del Segura"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Hondón de los Frailes"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Ibi"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Jacarilla"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Jávea/Xàbia"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Jijona/Xixona"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Llíber"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Lorcha/Orxa, l'"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Millena"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Monforte del Cid"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Monóvar/Monòver"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Montesinos, Los"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Murla"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Muro de Alcoy"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Mutxamel"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Novelda"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Nucia, la"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Ondara"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Onil"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Orba"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Orihuela"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Orxeta"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Parcent"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Pedreguer"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Pego"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Penàguila"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Petrer"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Pilar de la Horadada"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Pinós, el/Pinoso"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Planes"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Poblets, els"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Polop"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Quatretondeta"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Rafal"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Ràfol d'Almúnia, el"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Redován"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Relleu"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Rojales"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Romana, la"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Sagra"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Salinas"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "San Fulgencio"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "San Isidro"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "San Miguel de Salinas"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "San Vicente del Raspeig/Sant Vicent del Raspeig"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Sanet y Negrals"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Sant Joan d'Alacant"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Santa Pola"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Sax"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Sella"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Senija"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Tàrbena"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Teulada"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Tibi"
+	},
+	{
+		"parent_code": "03",
+		"code": "1",
+		"label": "Tollos"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Tormos"
+	},
+	{
+		"parent_code": "03",
+		"code": "3",
+		"label": "Torremanzanas/Torre de les Maçanes, la"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Torrevieja"
+	},
+	{
+		"parent_code": "03",
+		"code": "4",
+		"label": "Vall d'Alcalà, la"
+	},
+	{
+		"parent_code": "03",
+		"code": "0",
+		"label": "Vall de Gallinera"
+	},
+	{
+		"parent_code": "03",
+		"code": "6",
+		"label": "Vall de Laguar, la"
+	},
+	{
+		"parent_code": "03",
+		"code": "7",
+		"label": "Vall d'Ebo, la"
+	},
+	{
+		"parent_code": "03",
+		"code": "2",
+		"label": "Verger, el"
+	},
+	{
+		"parent_code": "03",
+		"code": "5",
+		"label": "Villajoyosa/Vila Joiosa, la"
+	},
+	{
+		"parent_code": "03",
+		"code": "9",
+		"label": "Villena"
+	},
+	{
+		"parent_code": "03",
+		"code": "8",
+		"label": "Xaló"
+	}
+]
+  
